@@ -13,6 +13,7 @@ int main()
   color x;
 
   x = black;
+  printf("%d\n", black);
   if (x == black)
     printf("검은색 옷을 입었다\n");
 
